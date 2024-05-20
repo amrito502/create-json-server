@@ -1,0 +1,12 @@
+create-json-server : npm install -g json-server
+
+db.json file : 
+{
+  "posts": [
+    { "id": 1, "title": "Hello World", "content": "This is my first post." },
+    { "id": 2, "title": "Vue.js is Awesome", "content": "I love working with Vue.js!" }
+  ]
+}
+
+
+run json-server : json-server --watch db.json

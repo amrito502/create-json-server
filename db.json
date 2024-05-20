@@ -1,0 +1,11 @@
+{
+    "posts": [
+      { "id": 1, "title": "Hello World", "content": "This is my first post." },
+      { "id": 2, "title": "Vue.js is Awesome", "content": "I love working with Vue.js!" },
+      { "id": 3, "title": "Vue.js is Awesome", "content": "I love working with Vue.js!" },
+      { "id": 4, "title": "Vue.js is Awesome", "content": "I love working with Vue.js!" },
+      { "id": 5, "title": "Vue.js is Awesome", "content": "I love working with Vue.js!" },
+      { "id": 6, "title": "Vue.js is Awesome", "content": "I love working with Vue.js!" }
+    ]
+  }
+  
